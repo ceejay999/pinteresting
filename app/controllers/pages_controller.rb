@@ -2,6 +2,9 @@ class PagesController < ApplicationController
   def Home
   end
 
-  def about
+  def About
+  end
+
+  def Forfun
   end
 end
